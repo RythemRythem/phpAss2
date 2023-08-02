@@ -1,0 +1,19 @@
+#body{
+    background-color: blue;
+
+}
+.my_navbar{
+    background-color: white;
+    margin-bottom: 4%;
+
+}
+.my_navbar_logo{
+    width: 80px;
+    height: 80px;
+}
+.my_footer{
+    background-color: rgb(13, 13, 80);
+    height: 400px;
+    width: 100%;
+    margin-top: 10%;
+}
